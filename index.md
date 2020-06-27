@@ -9,3 +9,7 @@ Löwenzahn ist ihre Lieblingsblume, vor allem in der duftigen weißen Blütenbra
 * singt am liebsten fröhliche Lieder
 * trägt gerne Kleider aus Blütenblättern
 * kann sich gut verstecken
+
+Wie Feen zu sagen pflegen:
+> Sehen kann man uns nur
+> wenn man an uns glaubt.
