@@ -3,3 +3,9 @@
 Meine Fee kann fliegen und Wünsche erfüllen. Sie ist zart und liebt es zu singen.
 Ihre Naturverbundeheit zeigt sie dadurch, dass sie im Frühling alles zum Blühen bringt.
 Löwenzahn ist ihre Lieblingsblume, vor allem in der duftigen weißen Blütenbracht.
+
+## Eigenschaften der Lieblingsfee
+* liebt Blumen
+* singt am liebsten fröhliche Lieder
+* trägt gerne Kleider aus Blütenblättern
+* kann sich gut verstecken
